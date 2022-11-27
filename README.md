@@ -1,6 +1,5 @@
 # My Portfolio
-This is my portfolio build in purely HTML and CSS
+This is my demo personal webpage
 
 ### Live link
-https://njmwasmoringa.github.io/demo-portfolio/
-# lennox-personal-web
+https://llumumbaweb.github.io/demo-portfolio/
